@@ -1,0 +1,9 @@
+<resources>
+    <string name="tbtnregistra">Registrar</string>
+    <string name="Mprincipal">Menu Principal</string>
+    <string name="toRegistra">Opcion de Registro</string>
+    <string name="INombre">Ingresa tu Nombre</string>
+    <string name="IEdad">Ingresa Tu Edad</string>
+    <string name="ISexo">Ingresa tu Sexo</string>
+    <string name="RbtnRegistra">Registra</string>
+</resources>
